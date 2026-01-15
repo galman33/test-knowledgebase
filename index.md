@@ -1,6 +1,6 @@
 # אינדקס מאגר הידע
 
-תאריך עדכון אחרון: 2026-01-14
+תאריך עדכון אחרון: 2026-01-15
 
 ## קטגוריות ראשיות
 
@@ -24,7 +24,11 @@
 מידע על פרויקטים פעילים, מושלמים ומתוכננים
 
 **מסמכים:**
-- _(טרם נוספו מסמכים)_
+- [MI1/Coyote - זאביק](knowledge/projects/mi1-coyote/overview.md) - אפליקציית לימוד קריאה לילדים (V4-V6, Madlibs, משחקים)
+- [SOI/אלתא - סנדבוקס](knowledge/projects/soi-elta/overview.md) - פרויקט סימולציה צבאית (HLA/DIS, רחפנים, AIRSIM)
+- [עמוס שור](knowledge/projects/amos-shor/overview.md) - פרויקט משותף עם עמוס שור
+- [סהר](knowledge/projects/sahar/overview.md) - שיתופי פעולה סביב משחקים ו-NFT
+- [שונות](knowledge/projects/other/overview.md) - שיחות ופגישות עם גורמים שונים
 
 ---
 
